@@ -46,3 +46,6 @@ Future Enhancements
 Incorporating year-over-year comparisons.
 Expanding the analysis to cover multiple products.
 Adding forecasting models for predictive insights.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/9df2ca13-b3d2-4991-b276-afb491b98928)
